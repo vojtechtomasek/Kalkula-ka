@@ -1,0 +1,15 @@
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/bin/Debug/net6.0/min_max_averafe
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/bin/Debug/net6.0/min_max_averafe.deps.json
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/bin/Debug/net6.0/min_max_averafe.runtimeconfig.json
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/bin/Debug/net6.0/min_max_averafe.dll
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/bin/Debug/net6.0/min_max_averafe.pdb
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.csproj.AssemblyReference.cache
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.AssemblyInfoInputs.cache
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.AssemblyInfo.cs
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.csproj.CoreCompileInputs.cache
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.dll
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/refint/min_max_averafe.dll
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.pdb
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/min_max_averafe.genruntimeconfig.cache
+/Users/vojtechtomasek/Desktop/Programování/C#/min_max_averafe/min_max_averafe/obj/Debug/net6.0/ref/min_max_averafe.dll
